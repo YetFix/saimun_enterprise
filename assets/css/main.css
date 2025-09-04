@@ -212,7 +212,6 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
   margin-right: 8px;
 }
 
@@ -815,9 +814,7 @@ h6 {
 
 /* Megamenu 2 - Mobile */
 @media (max-width: 1199px) {
-  .navmenu .megamenu-2 {
-    /* Hide Desktop Megamenu in Mobile */
-  }
+
 
   .navmenu .megamenu-2 .desktop-megamenu {
     display: none;
@@ -5452,6 +5449,3 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
